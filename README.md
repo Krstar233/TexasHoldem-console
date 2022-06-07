@@ -1,2 +1,2 @@
 # TexasHoldem-console
-德州扑克｜控制台游戏｜ai
+一个德州扑克的游戏，没有GUI，但实现了ai陪玩。
