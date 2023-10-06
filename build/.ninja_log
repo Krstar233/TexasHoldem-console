@@ -1,0 +1,9 @@
+# ninja log v5
+16	778	7183134635893863	CMakeFiles/TexasHoldem_console_main.dir/Desk.cpp.obj	4d8ea59d9b31f262
+35	811	7183134636143878	CMakeFiles/TexasHoldem_console_main.dir/Poker.cpp.obj	52e0fc685bf79b26
+27	852	7183134636632870	CMakeFiles/TexasHoldem_console_main.dir/Player.cpp.obj	97f2861b011c090e
+21	901	7183134637170221	CMakeFiles/TexasHoldem_console_main.dir/main.cpp.obj	8247b7df96fe0b3c
+45	1013	7183134638280197	CMakeFiles/TexasHoldem_console_main.dir/PokerHeap.cpp.obj	a3bdbf7bc05444c3
+9	1124	7183134639066258	CMakeFiles/TexasHoldem_console_main.dir/Banker.cpp.obj	2d146887f6d0eb7d
+58	1170	7183134639896259	CMakeFiles/TexasHoldem_console_main.dir/TexasHoldemGame.cpp.obj	3a680c8b23c19b14
+1171	1317	7183134641056259	TexasHoldem_console_main.exe	c998a7573219e6ee

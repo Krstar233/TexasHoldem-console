@@ -1,43 +1,43 @@
 [
 {
   "directory": "D:/project/TexasHoldem-console/build",
-  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/. -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Banker.cpp.obj -c D:\\project\\TexasHoldem-console\\Banker.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/.  -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Banker.cpp.obj -c D:\\project\\TexasHoldem-console\\Banker.cpp",
   "file": "D:\\project\\TexasHoldem-console\\Banker.cpp",
   "output": "CMakeFiles\\TexasHoldem_console_main.dir\\Banker.cpp.obj"
 },
 {
   "directory": "D:/project/TexasHoldem-console/build",
-  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/. -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Desk.cpp.obj -c D:\\project\\TexasHoldem-console\\Desk.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/.  -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Desk.cpp.obj -c D:\\project\\TexasHoldem-console\\Desk.cpp",
   "file": "D:\\project\\TexasHoldem-console\\Desk.cpp",
   "output": "CMakeFiles\\TexasHoldem_console_main.dir\\Desk.cpp.obj"
 },
 {
   "directory": "D:/project/TexasHoldem-console/build",
-  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/. -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\main.cpp.obj -c D:\\project\\TexasHoldem-console\\main.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/.  -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\main.cpp.obj -c D:\\project\\TexasHoldem-console\\main.cpp",
   "file": "D:\\project\\TexasHoldem-console\\main.cpp",
   "output": "CMakeFiles\\TexasHoldem_console_main.dir\\main.cpp.obj"
 },
 {
   "directory": "D:/project/TexasHoldem-console/build",
-  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/. -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Player.cpp.obj -c D:\\project\\TexasHoldem-console\\Player.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/.  -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Player.cpp.obj -c D:\\project\\TexasHoldem-console\\Player.cpp",
   "file": "D:\\project\\TexasHoldem-console\\Player.cpp",
   "output": "CMakeFiles\\TexasHoldem_console_main.dir\\Player.cpp.obj"
 },
 {
   "directory": "D:/project/TexasHoldem-console/build",
-  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/. -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Poker.cpp.obj -c D:\\project\\TexasHoldem-console\\Poker.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/.  -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\Poker.cpp.obj -c D:\\project\\TexasHoldem-console\\Poker.cpp",
   "file": "D:\\project\\TexasHoldem-console\\Poker.cpp",
   "output": "CMakeFiles\\TexasHoldem_console_main.dir\\Poker.cpp.obj"
 },
 {
   "directory": "D:/project/TexasHoldem-console/build",
-  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/. -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\PokerHeap.cpp.obj -c D:\\project\\TexasHoldem-console\\PokerHeap.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/.  -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\PokerHeap.cpp.obj -c D:\\project\\TexasHoldem-console\\PokerHeap.cpp",
   "file": "D:\\project\\TexasHoldem-console\\PokerHeap.cpp",
   "output": "CMakeFiles\\TexasHoldem_console_main.dir\\PokerHeap.cpp.obj"
 },
 {
   "directory": "D:/project/TexasHoldem-console/build",
-  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/. -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\TexasHoldemGame.cpp.obj -c D:\\project\\TexasHoldem-console\\TexasHoldemGame.cpp",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -ID:/project/TexasHoldem-console/.  -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TexasHoldem_console_main.dir\\TexasHoldemGame.cpp.obj -c D:\\project\\TexasHoldem-console\\TexasHoldemGame.cpp",
   "file": "D:\\project\\TexasHoldem-console\\TexasHoldemGame.cpp",
   "output": "CMakeFiles\\TexasHoldem_console_main.dir\\TexasHoldemGame.cpp.obj"
 }

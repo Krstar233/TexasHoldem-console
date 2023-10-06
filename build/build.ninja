@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_TexasHoldem_console_main: phony || CMake
 
 build CMakeFiles/TexasHoldem_console_main.dir/Banker.cpp.obj: CXX_COMPILER__TexasHoldem_console_main_unscanned_Debug D$:/project/TexasHoldem-console/Banker.cpp || cmake_object_order_depends_target_TexasHoldem_console_main
   DEP_FILE = CMakeFiles\TexasHoldem_console_main.dir\Banker.cpp.obj.d
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   INCLUDES = -ID:/project/TexasHoldem-console/.
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
   OBJECT_FILE_DIR = CMakeFiles\TexasHoldem_console_main.dir
@@ -60,7 +60,7 @@ build CMakeFiles/TexasHoldem_console_main.dir/Banker.cpp.obj: CXX_COMPILER__Texa
 
 build CMakeFiles/TexasHoldem_console_main.dir/Desk.cpp.obj: CXX_COMPILER__TexasHoldem_console_main_unscanned_Debug D$:/project/TexasHoldem-console/Desk.cpp || cmake_object_order_depends_target_TexasHoldem_console_main
   DEP_FILE = CMakeFiles\TexasHoldem_console_main.dir\Desk.cpp.obj.d
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   INCLUDES = -ID:/project/TexasHoldem-console/.
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
   OBJECT_FILE_DIR = CMakeFiles\TexasHoldem_console_main.dir
@@ -69,7 +69,7 @@ build CMakeFiles/TexasHoldem_console_main.dir/Desk.cpp.obj: CXX_COMPILER__TexasH
 
 build CMakeFiles/TexasHoldem_console_main.dir/main.cpp.obj: CXX_COMPILER__TexasHoldem_console_main_unscanned_Debug D$:/project/TexasHoldem-console/main.cpp || cmake_object_order_depends_target_TexasHoldem_console_main
   DEP_FILE = CMakeFiles\TexasHoldem_console_main.dir\main.cpp.obj.d
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   INCLUDES = -ID:/project/TexasHoldem-console/.
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
   OBJECT_FILE_DIR = CMakeFiles\TexasHoldem_console_main.dir
@@ -78,7 +78,7 @@ build CMakeFiles/TexasHoldem_console_main.dir/main.cpp.obj: CXX_COMPILER__TexasH
 
 build CMakeFiles/TexasHoldem_console_main.dir/Player.cpp.obj: CXX_COMPILER__TexasHoldem_console_main_unscanned_Debug D$:/project/TexasHoldem-console/Player.cpp || cmake_object_order_depends_target_TexasHoldem_console_main
   DEP_FILE = CMakeFiles\TexasHoldem_console_main.dir\Player.cpp.obj.d
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   INCLUDES = -ID:/project/TexasHoldem-console/.
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
   OBJECT_FILE_DIR = CMakeFiles\TexasHoldem_console_main.dir
@@ -87,7 +87,7 @@ build CMakeFiles/TexasHoldem_console_main.dir/Player.cpp.obj: CXX_COMPILER__Texa
 
 build CMakeFiles/TexasHoldem_console_main.dir/Poker.cpp.obj: CXX_COMPILER__TexasHoldem_console_main_unscanned_Debug D$:/project/TexasHoldem-console/Poker.cpp || cmake_object_order_depends_target_TexasHoldem_console_main
   DEP_FILE = CMakeFiles\TexasHoldem_console_main.dir\Poker.cpp.obj.d
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   INCLUDES = -ID:/project/TexasHoldem-console/.
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
   OBJECT_FILE_DIR = CMakeFiles\TexasHoldem_console_main.dir
@@ -96,7 +96,7 @@ build CMakeFiles/TexasHoldem_console_main.dir/Poker.cpp.obj: CXX_COMPILER__Texas
 
 build CMakeFiles/TexasHoldem_console_main.dir/PokerHeap.cpp.obj: CXX_COMPILER__TexasHoldem_console_main_unscanned_Debug D$:/project/TexasHoldem-console/PokerHeap.cpp || cmake_object_order_depends_target_TexasHoldem_console_main
   DEP_FILE = CMakeFiles\TexasHoldem_console_main.dir\PokerHeap.cpp.obj.d
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   INCLUDES = -ID:/project/TexasHoldem-console/.
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
   OBJECT_FILE_DIR = CMakeFiles\TexasHoldem_console_main.dir
@@ -105,7 +105,7 @@ build CMakeFiles/TexasHoldem_console_main.dir/PokerHeap.cpp.obj: CXX_COMPILER__T
 
 build CMakeFiles/TexasHoldem_console_main.dir/TexasHoldemGame.cpp.obj: CXX_COMPILER__TexasHoldem_console_main_unscanned_Debug D$:/project/TexasHoldem-console/TexasHoldemGame.cpp || cmake_object_order_depends_target_TexasHoldem_console_main
   DEP_FILE = CMakeFiles\TexasHoldem_console_main.dir\TexasHoldemGame.cpp.obj.d
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   INCLUDES = -ID:/project/TexasHoldem-console/.
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
   OBJECT_FILE_DIR = CMakeFiles\TexasHoldem_console_main.dir
@@ -121,7 +121,7 @@ build CMakeFiles/TexasHoldem_console_main.dir/TexasHoldemGame.cpp.obj: CXX_COMPI
 # Link the executable TexasHoldem_console_main.exe
 
 build TexasHoldem_console_main.exe: CXX_EXECUTABLE_LINKER__TexasHoldem_console_main_Debug CMakeFiles/TexasHoldem_console_main.dir/Banker.cpp.obj CMakeFiles/TexasHoldem_console_main.dir/Desk.cpp.obj CMakeFiles/TexasHoldem_console_main.dir/main.cpp.obj CMakeFiles/TexasHoldem_console_main.dir/Player.cpp.obj CMakeFiles/TexasHoldem_console_main.dir/Poker.cpp.obj CMakeFiles/TexasHoldem_console_main.dir/PokerHeap.cpp.obj CMakeFiles/TexasHoldem_console_main.dir/TexasHoldemGame.cpp.obj
-  FLAGS = -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  FLAGS = -w -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
   LINK_FLAGS = -Xlinker /subsystem:console
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames
   OBJECT_DIR = CMakeFiles\TexasHoldem_console_main.dir
