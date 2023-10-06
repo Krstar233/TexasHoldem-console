@@ -1,0 +1,5 @@
+D:/project/TexasHoldem-console/build/CMakeFiles/TexasHoldem_console_main.dir
+D:/project/TexasHoldem-console/build/CMakeFiles/package.dir
+D:/project/TexasHoldem-console/build/CMakeFiles/package_source.dir
+D:/project/TexasHoldem-console/build/CMakeFiles/edit_cache.dir
+D:/project/TexasHoldem-console/build/CMakeFiles/rebuild_cache.dir
